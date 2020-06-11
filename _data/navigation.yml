@@ -2,7 +2,9 @@
   link: /
 - name: About
   link: /about/
+- name: Research 
+  link: /research/
 - name: Posts
   link: /posts/
-- name: Contact
-  link: /contact/
+- name: Photography
+  link: /photography/
