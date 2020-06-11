@@ -4,7 +4,7 @@
 title: Personal Website
 url: "https://alison0110.github.io/alisonzhao/"
 baseurl:
-google_analytics_key:UA-169241214-1
+google_analytics_key: "UA-169241214-1"
 newsletter_action:
 disqus_shortname:
 
